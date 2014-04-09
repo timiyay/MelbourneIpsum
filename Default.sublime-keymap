@@ -1,0 +1,10 @@
+[
+    {
+        "keys": ["ctrl+alt+m+i"],
+        "command": "melbourne_ipsum"
+    },
+    {
+        "keys": ["s", "o", "m", "e", "l", "b", "n", "tab"],
+        "command": "melbourne_ipsum"
+    }
+]
